@@ -6,6 +6,9 @@
 
 ---
 
+![Alt text](Screenshot.jpg?raw=true "MRHPx Demoscene Art - MASM32")
+
+
 ## 📋 Daftar Isi
 
 1. [Apa Itu Demoscene?](#1-apa-itu-demoscene)
